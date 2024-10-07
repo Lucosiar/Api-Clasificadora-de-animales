@@ -1,7 +1,7 @@
 # Clasificador de imágenes de animales
 
 Este proyecto utiliza técnicas de Deep Learning para clasificar imágenes de diferentes especies de animales utilizando una red neuronal convolucional basada en ResNet50. 
-El modelo ha sido entrenado con un conjunto de datos que incluye diez clases de animales.
+El modelo ha sido entrenado con un conjunto de datos que incluye cinco clases de animales.
 
 ## Descripción
 
