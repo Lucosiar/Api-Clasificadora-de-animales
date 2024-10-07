@@ -34,5 +34,5 @@ El modelo ha sido desarrollado utilizando TensorFlow y Keras, aprovechando la ar
 ## Instalación
 
 1. Clona este repositorio:
+
    git clone (https://github.com/Lucosiar/Api-Clasificadora-de-animales)
-   cd nombre_del_repositorio
