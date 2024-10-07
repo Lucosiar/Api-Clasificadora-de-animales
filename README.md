@@ -31,6 +31,15 @@ El modelo ha sido desarrollado utilizando TensorFlow y Keras, aprovechando la ar
 - Flask (para la API REST)
 - Git (para control de versiones)
 
+## Archivos del Proyecto
+
+- `app.py`: Implementa una API REST utilizando Flask para permitir la clasificación de nuevas imágenes a través de peticiones HTTP.
+- `functions.py`: Contiene funciones auxiliares utilizadas para el procesamiento de imágenes y la carga del modelo.
+- `modelo.py`: Define y entrena el modelo de clasificación. Contiene la arquitectura de la red neuronal y las funciones necesarias para la optimización y evaluación del modelo.
+- `modelo.h5`: Archivo que contiene el modelo entrenado. Este archivo se genera después de completar el entrenamiento y se utiliza para realizar predicciones sobre nuevas imágenes. Puede ser cargado utilizando Keras para hacer inferencias sin necesidad de reentrenar el modelo.
+- `styles.css`: Archivo CSS que contiene estilos para la interfaz de usuario. Se utiliza para dar formato y mejorar la apariencia de la aplicación web, asegurando que sea visualmente atractiva y fácil de usar.
+- `home.html`: Archivo HTML que se utiliza para la interfaz de usuario del proyecto (si aplica).
+
 ## Instalación
 
 1. Clona este repositorio:
