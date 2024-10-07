@@ -5,7 +5,7 @@ El modelo ha sido entrenado con un conjunto de datos que incluye diez clases de 
 
 ## Descripción
 
-El objetivo de este proyecto es clasificar imágenes en diez categorías de animales: 
+El objetivo de este proyecto es clasificar imágenes en cinco categorías de animales: 
 - Perro
 - Caballo
 - Elefante
