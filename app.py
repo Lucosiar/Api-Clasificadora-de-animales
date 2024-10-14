@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify, render_template
 from functions import load_model, predict_image, get_class_name
 import os
+import numpy as np
+import tensorflow as tf
 
 app = Flask(__name__)
 
