@@ -47,18 +47,18 @@ El modelo ha sido desarrollado utilizando TensorFlow y Keras, aprovechando la ar
    git clone (https://github.com/Lucosiar/Api-Clasificadora-de-animales)
 
 2. Crear entorno virtual
-   Windows: python -m venv venv
-   Linux\Mac: python3 -m venv venv
+   - Windows: python -m venv venv
+   - Linux\Mac: python3 -m venv venv
 
 4. Activar entorno virtual
-   Windows: venv\Scripts\activate
-   Linux\Mac: source venv/bin/activate
+   - Windows: venv\Scripts\activate
+   - Linux\Mac: source venv/bin/activate
    
 6. Instalar Requirements
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
    
 8. Ejecutar código
-   python app.py
+   - python app.py
 
 
 
